@@ -1,0 +1,138 @@
+iframe{
+/*
+    width: 40%;
+    height: auto;
+*/
+}
+nav ul{
+/*    margin-left: 25%;*/
+}
+.logo{
+    max-height: 100px;
+    width: auto;
+}
+.title-text{
+    font-family: initial !important;
+    font-weight: bolder;
+}
+.main-row{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+body{
+    
+}
+.logo-large{
+    max-width: 80%;
+    height: auto;
+}
+.main-row{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.main-card{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+nav{
+/*    height: 80px !important;*/
+}
+
+.card, nav{
+        box-shadow: 0 12px 12px 0 rgba(0,0,0,0.14), 0 11px 15px 0 rgba(0,0,0,0.12), 0 13px 11px -2px rgba(0,0,0,0.2);
+}
+
+.body-text a, .body-text, h1, h4, h5, p{
+    color: white;
+}
+
+.page-footer{
+    min-height: 100px;
+}
+
+.parallax-container {
+    height: 450px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+
+.facebook-icon{
+    color: rgb(42, 84, 113);
+    background-color: white;
+    opacity: 0.75;
+    border-radius: 50%;
+    border: 0px;
+     width: 50px; 
+    height: 50px;
+     display: inline-block; 
+    padding: 8px;
+    font-size: 24px;
+}
+
+.facebook-icon:hover { 
+    opacity: 1;
+}
+
+.facebook-icon i{
+    margin-top: 5px;
+}
+#dropdown1 a{
+    color: midnightblue;
+}
+nav ul li{
+    width: 140px;
+}
+.collapsible-body{
+    color: white;
+}
+/*
+.dropdown-button{
+    width: 140px;
+}
+*/
+#chrisComo{
+    background-image: url(../img/Instructors/coachComo.png);
+}
+#isaacGreeley{
+    background-image: url(../img/Instructors/isaacGreeley.png);
+}
+#noahDevore{
+    background-image: url(../img/Instructors/noah1.jpg);
+}
+#jordanShields{
+    background-image: url(../img/Instructors/jordanShields.png);
+}
+#toddMussman{
+    background-image: url(../img/Instructors/toddMussman.jpg);
+}
+#brandonNewill{
+    background-image: url(../img/Instructors/brandonNewill.jpg);
+}
+#joshShields{
+    background-image: url(../img/Instructors/joshShields.jpg);
+}
+#shaneValko{
+    background-image: url(../img/Instructors/shaneValko.jpg);
+}
+.profile-pic{
+    width: 200px;
+    height: 200px;
+/*    background-image: url(../img/profile.jpg);*/
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer{
+    padding-bottom: 20px;
+}

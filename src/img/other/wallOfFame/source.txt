@@ -1,0 +1,232 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/mat_factory_template.dwt" codeOutsideHTMLIsLocked="false" -->
+<meta name="keywords" content="The Mat Factory, Mat Factory, Wrestling Clubs, Wrestling Clubs Western PA, Wrestling Clubs Alle-Kiski Area, wrestling development">
+<meta name="description" content="A new, up  and coming club dedicated to the development of young, aspiring wrestlers to  prepare them to compete at an elite level. A new state-of-the-art wrestling  facility has opened in the shadow of one of the most storied  wrestling programs in Western Pennsylvania. Located on Leechburg road (Main  Street) in Lower Burrell, this club is geared towards helping young athletes  achieve and surpass their potential.">
+
+<!--
+
+
+
+function mmLoadMenus() {
+  if (window.mm_menu_0520163053_0) return;
+                      window.mm_menu_0520163053_0 = new Menu("root",161,17,"Tahoma, Arial, Verdana, Helvetica",11,"#FFFFFF","#000000","#003300","#CC9966","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0520163053_0.addMenuItem("EP&nbsp;Henry&nbsp;Hardscaping","window.open('https://www.ephenry.com/home.asp', '_blank');");
+  mm_menu_0520163053_0.addMenuItem("Mulch","location='../mulch.html'");
+  mm_menu_0520163053_0.addMenuItem("Decorative&nbsp;Gravel","location='../products.html'");
+   mm_menu_0520163053_0.hideOnMouseOut=true;
+   mm_menu_0520163053_0.bgColor='#555555';
+   mm_menu_0520163053_0.menuBorder=1;
+   mm_menu_0520163053_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0520163053_0.menuBorderBgColor='#FFFFFF';
+
+mm_menu_0520163053_0.writeMenus();
+} // mmLoadMenus()
+
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+<style type="text/css">
+<!--
+.style5 {color: #660000}
+.style6 {font-size: 9px}
+.style7 {color: #003300}
+.style8 {color: #FFFFFF}
+.style9 {color: #CCCCCC}
+.style10 {color: #000000; }
+.style12 {	font-family: Geneva, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+.style13 {font-family: Geneva, Arial, Helvetica, sans-serif; color: #FFFFFF; font-weight: bold; }
+.style14 {font-family: Geneva, Arial, Helvetica, sans-serif}
+.style15 {font-family: Geneva, Arial, Helvetica, sans-serif; font-weight: bold; }
+-->
+</style>
+<head>
+<!-- InstanceBeginEditable name="Title" -->
+<title>The Mat Factory Club Wall of Fame</title>
+<!-- InstanceEndEditable -->
+<link href="matfactory.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="Table_01">
+  <div id="header" style="position:absolute; left:0px; top:0px; width:1024px; height:100px; z-index: 1;">
+    <div align="center"></div>
+  </div>
+  <!-- InstanceBeginEditable name="MainInfo" -->
+  <div id="introbox" class="style5" style="position:absolute; width:1024px; height:auto; left: 0px; top: 100px; z-index: 4;">
+    <p class="blueheadertext">&nbsp;</p>
+    <p class="blueheadertext">&nbsp;</p>
+    <table width="900"  border="0" align="center" cellpadding="5" cellspacing="5">
+      <tr>
+        <td colspan="3" align="right" valign="top"><img src="images/mat_factory_logo100.png" width="146" height="100" alt="The Mat Factory"></td>
+      </tr>
+      <tr>
+        <td colspan="3" align="left" valign="top"><p class="bluetext"><img src="images/Words/WallFame.png" width="600" height="40" alt="Club Wall of Fame"></p></td>
+      </tr>
+      <tr>
+        <td colspan="3" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="279" align="left"><span class="whiteheadertext20">NCAA Champions
+        </span>          <hr></td>
+        <td colspan="2" align="left"><span class="whiteheadertext20">NCAA All-Americans
+        </span>          <hr></td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Josh Shields (Mercyhurst) 2009</td>
+        <td colspan="2" align="left" class="grayCambria14text">Josh Shields (2008,  2010)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria16text">Jason Nolf (Penn State) 2017</td>
+        <td colspan="2" align="left" class="grayCambria14text">Jordan Shields (2011)</td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td colspan="2" align="left" class="grayCambria14text">Travis McKillop (2012, 2013, 2014, 2016) </td>
+      </tr>
+      <tr>
+        <td align="left"><p class="whiteheadertext20">NCAA Qualifiers&#13;</p>
+          <hr></td>
+        <td colspan="2" align="left" class="grayCambria14text">Jeremy Landowski (2014, 2015, 2016) </td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Shane Welsh (Lehigh) 2012</td>
+        <td align="left" class="grayCambria14text">Dakota DesLauriers (2015) </td>
+        <td align="left" class="grayCambria14text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Phil Marra (2015 &ndash;NWCA 2nd ) </td>
+        <td width="256" rowspan="17" align="left" class="grayCambria14text"><img src="images/2017 Pictures/_magazine.png" width="250" height="316" alt="Jason Nolf &amp; Michael Kemmerer"></td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Michael Kemmerer (2017 3rd, Iowa)</td>
+      </tr>
+      <tr>
+        <td align="left"><p>&nbsp;</p></td>
+        <td align="left" class="grayCambria18text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left"><span class="whiteheadertext20">PIAA Champions</span>
+          <hr></td>
+        <td align="left"><span class="whiteheadertext20">PIAA Placewinners
+          </span>          <hr></td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Dakota DesLauriers (Burrell, 2013)</td>
+        <td width="315" align="left" class="grayCambria14text">Jordan Shields (2nd , &lsquo;08)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Jason Nolf (Kittanning, 2014, 2013, 2011)</td>
+        <td align="left" class="grayCambria14text">Shane Welsh (2nd, &lsquo;08)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Travis McKillop (Burrell, 2011)&nbsp; </td>
+        <td align="left" class="grayCambria14text">Dave Makara (4th, &rsquo;11)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Jordan Shields  (Burrell, 2007)</td>
+        <td align="left" class="grayCambria14text">Jeremy Landowski (3rd, &rsquo;11)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Tyler Smith (Franklin  Regional, 2013)</td>
+        <td align="left" class="grayCambria14text">Travis McKillop (5th, &lsquo;10)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Steven Edwards (Burrell, 2014)</td>
+        <td align="left" class="grayCambria14text">Brian Beattie (3rd, &lsquo;11)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Allan Beattie (Burrell, 2015)</td>
+        <td align="left" class="grayCambria14text">Dakota DesLauriers  (2nd, &lsquo;12, 3rd, &lsquo;11)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Josh Shields (Franklin Regional, 2015)</td>
+        <td align="left" class="grayCambria14text">Jason Nolf (3rd , &lsquo;12)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Michael Kemmerer (Franklin Regional, 2015)</td>
+        <td align="left" class="grayCambria14text">Tyler Smith (5th, &lsquo;12, 3rd &lsquo;14)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Adam Martz (Maryland State Champ,  2015)</td>
+        <td align="left" class="grayCambria14text">Zach Kelly (4th, &lsquo;12, 2nd, &lsquo;13 Prep Nat&rsquo;ls)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Damon Greenwald (Burrell, 2016)</td>
+        <td align="left" class="grayCambria14text"><p>Al Beattie (8th, &lsquo;12 Prep Nat&rsquo;ls, 3rd&nbsp; &lsquo;14)</p></td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria14text">Jake Robb (Armstrong, 2016)</td>
+        <td align="left" class="grayCambria14text">Phil Marra (4th, &rsquo;13)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria18text">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Steve Edwards (6th, &lsquo;13)</td>
+      </tr>
+      <tr>
+        <td align="left" class="grayCambria18text">&nbsp;</td>
+        <td align="left" class="grayCambria14text"><p>Josh Shields  (2nd, &lsquo;14)</p></td>
+        <td align="center" class="whiteboldtext">Former Mat Factory Wrestlers, NCAA<br></td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text"><p>Corey Falleroni (5th &lsquo;14)</p></td>
+        <td align="center" class="whiteboldtext">Champion, Jason Nolf wrestling Iowa’s<br></td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text"><p>Jake Robb (5th, &rsquo;14, 2nd &lsquo;15)</p></td>
+        <td align="center" class="grayCambria14text"><span class="whiteboldtext">NCAA All-American, Michael Kemmerer</span></td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Patrick Dewitt (7th, &lsquo;14) </td>
+        <td align="left" class="grayCambria14text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Damon Greenwald (7th , &lsquo;15) </td>
+        <td align="left" class="grayCambria14text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Brylee Schumaker (3rd, &lsquo;16) </td>
+        <td align="left" class="grayCambria18text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria14text">Isaac Reid (6th, 2016) </td>
+        <td align="left" class="grayCambria18text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left">&nbsp;</td>
+        <td align="left" class="grayCambria16text">Cam Coy (1st, 2017)</td>
+        <td align="left" class="grayCambria18text">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" align="center">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" align="center"><a href="index.html"><img src="images/Words/Home.png" alt="Home Page" width="100" height="40" border="0"></a></td>
+      </tr>
+    </table>
+    <p align="center" class="brownheadertext style8">&nbsp;</p>
+  </div>
+  <!-- InstanceEndEditable --></div>
+</body>
+<!-- InstanceEnd --></html>
